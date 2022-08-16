@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jsalvar124
-- 👀 I’m interested in Machine learning and Artificial intelligence
-- 🌱 I’m currently learning both of them
-- 💞️ I’m looking to collaborate on python, arduino or ML projects.
+- 👀 I’m interested in web development, Machine learning and Artificial intelligence
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate on javascript or python projects.
 - 📫 How to reach me jsalvar124@gmail.com
 
 <!---
