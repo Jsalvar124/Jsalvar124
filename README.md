@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jsalvar124
+- 👋 Hi, I’m Julián Salvá
 - 👀 I’m interested in web development, Machine learning and Artificial intelligence
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on javascript or python projects.
