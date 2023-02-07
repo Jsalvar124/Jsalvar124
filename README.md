@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Julián Salvá
-- 👀 I’m interested in web development, Machine learning and Artificial intelligence
+- 👋 Hi, I’m Julián Salvá and I am a full stack developer
+- 👀 I’m interested in web development, machine learning and artificial intelligence
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on javascript or python projects.
 - 📫 How to reach me jsalvar124@gmail.com
