@@ -1,5 +1,5 @@
 # Hi, I’m Julián Salvá 
-#### I am a **web developer** and civil engineer. 
+I am a **web developer** and civil engineer. 
 
 - 👀 I’m interested in web development, machine learning and artificial intelligence.
 - 🌱 I’m currently learning Algorithms with Thomas H. Cormen's book.
