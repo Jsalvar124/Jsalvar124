@@ -15,7 +15,7 @@
 <!-- <h3>💻  Dev Portafolio: <a href="https://www.linkedin.com/in/julian-salva/" target="blank" style='margin-right:4px'> Jsalvar124 
   </a>
   </h3> -->
-<h3>💼  Linkedin:    <a href="https://www.linkedin.com/in/julian-salva/" target="blank" style='margin-right:4px'> Jsalvar124 
+<h3>💼  Linkedin:    <a href="https://www.linkedin.com/in/julian-salva/" target="blank" style='margin-right:4px'> Julian-salva 
   </a>
   </h3>
   <h3> 📃 CV:  <a href="https://drive.google.com/file/d/1HybnyTcaln_LDbR7T07NZBEUYLlVxLmY/view?usp=sharing" target="blank">English 
