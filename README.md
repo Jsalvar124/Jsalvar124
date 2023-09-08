@@ -12,7 +12,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="mail" height="32px" width="32px" />
   </a>
 </p> -->
-<h3>💻  Dev Portafolio: <a href="https://julian-salva-dev.vercel.app/" target="blank" style='margin-right:4px'> julian-salva-dev 
+<h3>💻  Dev Portfolio: <a href="https://julian-salva-dev.vercel.app/" target="blank"> julian-salva-dev 
   </a>
   </h3>
 <h3>💼  Linkedin: <a href="https://www.linkedin.com/in/julian-salva/" target="blank"> julian-salva</a>
