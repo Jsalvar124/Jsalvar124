@@ -1,6 +1,6 @@
 
  <h2 align="center">¡Hi 👋! I'm Julián Salvá </h2>
-<p align="center">I am a <strong>Web Developer</strong> and Civil Engineer.<br />You can contact me or find more about me  here!</p>
+<p align="center">I am a <strong>Full Stack Web Developer</strong> and Civil Engineer.<br />You can contact me or find more about me  here!</p>
 <!-- <p align="center">
    <a id="text" href="https://www.linkedin.com/in/julian-salva/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="32px" width="32px" />
@@ -25,6 +25,7 @@
   <h3> 📧 Email:     <a href="mailto:jsalvar124@gmail.com" target="blank" style='margin-right:4px'> jsalvar124@gmail.com
   </a>
   </h3>
+<h3>Stack</h3>
 <h2></h2>
 <ul>
   <li>💡 Among plenty of stuff, I'm mostly interested in Backend development, Machine learning, and Artificial Intelligence.</li>
