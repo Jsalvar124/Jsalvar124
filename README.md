@@ -25,11 +25,11 @@
   <h3> 📧 Email:     <a href="mailto:jsalvar124@gmail.com" target="blank" style='margin-right:4px'> jsalvar124@gmail.com
   </a>
   </h3>
-<h3>Stack</h3>
+<h3>Main Stack: Node.js | Express.js | Sequelize | MySQL | React.js | </h3>
 <h2></h2>
 <ul>
   <li>💡 Among plenty of stuff, I'm mostly interested in Backend development, Machine learning, and Artificial Intelligence.</li>
-  <li>📚 I’m currently learning Algorithms with Thomas H. Cormen's book.</li>
+  <li>📚 I’m currently learning Algorithms with Thomas H. Cormen's book, Next.js and Typescript</li>
 </ul>
 
 <!---
