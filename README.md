@@ -17,8 +17,8 @@
   </h3>
 <h3>💼  Linkedin: <a href="https://www.linkedin.com/in/julian-salva/" target="blank"> julian-salva</a>
   </h3>
-  <h3> 📃 CV:  <a href="https://drive.google.com/file/d/1HybnyTcaln_LDbR7T07NZBEUYLlVxLmY/view?usp=sharing" target="blank">English 
-  </a> | <a href="https://drive.google.com/file/d/1ji8AIxo7ZVSAJd6AhdJ5SLrk1Ne2M9LG/view?usp=sharing" target="blank">Español
+  <h3> 📃 CV:  <a href="https://drive.google.com/file/d/1iQyeZRmFh3Tjg2YmMAsphRjR2EFn6ShE/view?usp=sharing" target="blank">English 
+  </a> | <a href="https://drive.google.com/file/d/1Coy816K7XBX7UwP0bdrcY9_itpU-kT0d/view?usp=sharing" target="blank">Español
   </a>
   
   </h3>
