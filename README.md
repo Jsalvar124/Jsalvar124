@@ -29,7 +29,7 @@
 <h2></h2>
 <ul>
   <li>💡 Among plenty of stuff, I'm mostly interested in Backend development, Machine learning, and Artificial Intelligence.</li>
-  <li>📚 I’m currently learning Algorithms with Thomas H. Cormen's book,AWS and Docker</li>
+  <li>📚 I’m currently learning Algorithms with Thomas H. Cormen's book, AWS and Docker</li>
 </ul>
 
 <!---
